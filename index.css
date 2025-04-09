@@ -1,0 +1,35 @@
+section h1 {
+    font-size: 56px;
+    margin-bottom: auto;
+}
+
+section p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: auto;
+}
+
+.home-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 2px;
+}
+
+.text-content {
+    flex: 2;
+    color: white;
+    text-align: center
+}
+
+.image-content {
+    flex: 2;
+    text-align: center;
+}
+
+.image-content img {
+    width: 300px;
+    height: 600px;
+    border-radius: 10px;
+}
