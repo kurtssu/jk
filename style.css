@@ -47,6 +47,7 @@ a {
 
 a:hover {
     transform: scale(1.1);
+}
 
 section {
     max-width: 1200px;
