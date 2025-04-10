@@ -41,13 +41,7 @@ nav ul li a {
     font-weight: bold;
     transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out;
 }
-a {
-    transition: transform 0.3s ease-in-out;
-}
 
-a:hover {
-    transform: scale(1.1);
-}
 
 section {
     max-width: 1200px;
