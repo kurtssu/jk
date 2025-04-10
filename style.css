@@ -19,7 +19,7 @@ nav {
     transition: transform 0.3s ease-in-out;
 }
 
-#logo:hover {
+#logo img:hover {
     transform: scale(1.1):
 }
 
