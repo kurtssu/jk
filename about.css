@@ -44,4 +44,5 @@ section h2{
     width: 40px;
     height: 40px;
     border-radius: 5px;
+   transition: transform 0.3s ease-in-out;
 }
