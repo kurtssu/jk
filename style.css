@@ -16,8 +16,10 @@ nav {
     max-height: 50px; 
     margin-right: auto; 
     border: 2px solid white;
-    transition: transform 0.3s ease-in-out;
 }
+
+#logo img {
+    transition: transform 0.3s ease-in-out;
 
 #logo img:hover {
     transform: scale(1.1):
